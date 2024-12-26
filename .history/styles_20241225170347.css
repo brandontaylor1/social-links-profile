@@ -1,0 +1,28 @@
+:root {
+    --gray-900: #141414;
+    --gray-800: #1F1F1F;
+    --gray-700: #333333;
+
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+
+    --color-green: #C4F82A;
+
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-black);
+}
+
+.container {
+    background-color: var(--gray-800);
+
+}
+
